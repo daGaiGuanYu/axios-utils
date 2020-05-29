@@ -1,0 +1,19 @@
+{
+  "name": "axios-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daGaiGuanYu/axios-util.git"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "gy0318",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daGaiGuanYu/axios-util/issues"
+  },
+  "homepage": "https://github.com/daGaiGuanYu/axios-util#readme"
+}
