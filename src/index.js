@@ -1,4 +1,4 @@
 module.exports = {
-  generateCommonApi: require('./common-api'),
+  generateCommonApi: require('./generate'),
   register: require('./axios-instance').register
 }
