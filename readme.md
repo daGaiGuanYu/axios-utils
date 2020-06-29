@@ -1,5 +1,5 @@
 # axios-utils
 + 生成 api
 
-# 将来
-+ 收集不规则路径的 api
+# 大改
+不再顾及 vscode 代码提示
